@@ -58,6 +58,7 @@ main {
   width: 100%;
   height: 60vh;
   background-image: url(../image/arvore.png);
+  bac
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0 2%;
@@ -92,13 +93,14 @@ main {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #0cc1a7;
+  background-color: #73c7bb;
   margin-right: 5%;
 }
 
 .icon i {
   transform: scale(1.5);
-  color: #07706f;
+  color: #107d68;
+  /* color: #07706f; */
 }
 
 .title {
@@ -110,7 +112,7 @@ main {
   height: 40px;
   font-weight: bold;
   font-size: 1.2rem;
-  color: #08967e;
+  color: #9e1c5a;
   text-shadow: 0.2em 0.2em 0.2em #f2f2f2;
 }
 
